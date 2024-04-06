@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lab2</string>
+    <string name="name">Name: %s</string>
+    <string name="height">Height: %s</string>
+    <string name="nationality">Nationality: %s</string>
+    <string name="occupation">Occupation: %s</string>
+    <string name="birthday">Birthday: %s</string>
+</resources>
